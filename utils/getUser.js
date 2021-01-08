@@ -7,7 +7,7 @@ const getUser = async (username) => {
 
     const dontShowRepos = [
         'marvinlemos/idswsn',
-        'marvinlemos.dev-api',
+        'marvinlemos/marvinlemos.dev-api',
         'marvinlemos/kaggle-google-revenue',
         'marvinlemos/supervisely'
     ]
